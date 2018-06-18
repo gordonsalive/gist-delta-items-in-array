@@ -1,0 +1,11 @@
+{
+  "name": "delta-items-in-array",
+  "version": "1.0.0",
+  "description": "Find all items in an integer array that are delta apart.",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alan Gordon",
+  "license": "MIT"
+}
